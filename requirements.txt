@@ -18,7 +18,7 @@ Flask-WTF==0.10.3
 gevent==1.1.2
 greenlet==0.4.10
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 kombu==3.0.26
 lxml==3.6.4
 MarkupSafe==0.23
